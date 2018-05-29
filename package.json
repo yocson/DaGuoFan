@@ -1,0 +1,15 @@
+{
+  "name": "fanfoudesk",
+  "version": "1.0.0",
+  "description": "fanfou desktop application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "author": "yocson",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
